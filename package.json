@@ -1,0 +1,11 @@
+{
+  "name": "javascript-snake",
+  "version": "1.0.0",
+  "description": "JavaScript Snake<br/>",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
